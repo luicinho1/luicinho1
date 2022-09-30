@@ -1,4 +1,9 @@
 Barbearia Figaro's
 Gabriel Ramos, Vinicius Westim
-Sistema simples de agendamento de barbearia usando java forms, para dar um trato na sua auto estima, barba cabelo e bigode.
-o cabeleireiro faz o agendamento de acordo com a sua agenda e disposição de horários e o dia, assim enviando um e-mail para o cliente com as informações.
+Sistema simples de agendamento de barbearia
+Sobre o Projeto
+Vamos Criar um projeto em java (Sistema de BarberShop) no netbeans onde o barbeiro acessa lança seus agendamentos, e o sistema gerencia os agendamento. 
+E também trabalhar com email em java, pois o sistema vai mandar email para as pessoas da lista avisando sobre seu agendamento.
+Sobre o Desenvolvimento
+Projeto Passo a Passo será feito feito no Netbeans, Java aplication, utilizando programação visual com JFrames, 
+terá foco em orientação objeto e boas práticas de programação, e desenvolvimento da arquitetura no Padrão MVC
