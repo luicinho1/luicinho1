@@ -7,3 +7,13 @@ E também trabalhar com email em java, pois o sistema vai mandar email para as p
 Sobre o Desenvolvimento
 Projeto Passo a Passo será feito feito no Netbeans, Java aplication, utilizando programação visual com JFrames, 
 terá foco em orientação objeto e boas práticas de programação, e desenvolvimento da arquitetura no Padrão MVC
+Como um usuário não agendado
+Gostaria de realizar o agendamento
+Para que eu possa acessar as funcionalidades do aplicativo
+Critérios de aceite:
+
+– Um usuário não pode se cadastrar
+
+– Um usuário não pode cancelar em menos de 24 horas o agendamento
+
+– Um horario agendado não pode ser agendado denovo
